@@ -20,7 +20,7 @@ Problem 2 :- Count Number of Nice Subarrays
 8. Finally return the answer.
 9. Now you have to once pass real array with k and with k-1 and subtract them to get the final answer as output.
 
-Problem 3 :-
+Problem 3 :- Repeated DNA Sequences
 
 1. Initialize a hash map named freq.
 2. Initialize a FOR loop to iterate throught the array and get the 10 elements.
